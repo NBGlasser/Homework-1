@@ -32,7 +32,7 @@ header {
     padding: 20px;
     margin-bottom: 20px;
     margin-left: 232.5px;
-    width: 200px;
+    width: 210px;
     text-align:center;
     position: relative;
    }
@@ -58,7 +58,7 @@ header {
     margin-bottom: 20px;
     margin-left: 232.5px;
     width: 150px;
-    bottom: 420px;
+    bottom: 430px;
     left: 25px;
     text-align:center;
     position: relative;
@@ -71,7 +71,7 @@ header {
     margin-bottom: 20px;
     margin-left: 232.5px;
     width: 150px;
-    bottom: 430px;
+    bottom: 440px;
     left: 25px;
     text-align:center;
     position: relative;
@@ -86,8 +86,8 @@ header {
     margin-bottom: 20px;
     margin-right: 200px;
     height: 250px;
-    width: 200px;
-    bottom: 722px;
+    width: 210px;
+    bottom: 715px;
     text-align:center;
     position: relative;
 }
@@ -103,7 +103,7 @@ footer {
     width: 495px;
     clear: both;
     position: relative;
-    bottom: 700px;
+    bottom: 720px;
 }
 
 
